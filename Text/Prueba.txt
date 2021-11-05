@@ -1,7 +1,5 @@
 Hola
 
-<<<<<<< HEAD
 Adiós
-=======
+
 No quiero.
->>>>>>> 3f7e54bd1b0018fde1b090651298b8f4e725848d
